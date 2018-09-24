@@ -1,0 +1,17 @@
+#input {
+    width: 50%;
+    height: 50px;
+}
+
+
+#photo img {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+}
+
+body,
+html {
+    width: 100vw;
+    height: 100vh;
+}
