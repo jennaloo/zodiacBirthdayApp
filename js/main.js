@@ -50,7 +50,7 @@ var zodiacArray = [
     {
         //july 23 - august 22
         name: 'leo',
-        photo: '<img src="img/leo.png" class="animated fadeIn">',
+        photo: '<img src="img/leo.jpg" class="animated fadeIn">',
         trait: 'Kind, helpful, optimistic, straightforward, and loyal.',
         month: "july",
         transitionDay: 23,
@@ -141,3 +141,19 @@ function birthday() {
 
     }
 }
+
+
+//making your own animation with keyframes
+// .animation{
+//animation:spin 0.5s ease forwards;
+//}
+//@keyframes spin{
+//0%{
+//    opacity:0;
+//}
+//100%{
+//    opacity:1;
+//    transform:rotate(720deg);
+//
+//}
+// Note: Play around with transform inside of keyframes!
